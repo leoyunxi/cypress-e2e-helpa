@@ -1,5 +1,5 @@
 {
-  "baseUrl": "http://localhost:8080/NisekoServer/",
+  "baseUrl": "http://localhost:55561/NisekoServer/",
   "watchForFileChanges": false,
   "chromeWebSecurity": false,
   "viewportWidth": 1920,
