@@ -1,0 +1,79 @@
+{
+  "commonUser": {
+    "name": "cy-user",
+    "phone": "00100000100",
+    "belong": "cypress e2e"
+  },
+  "user114": {
+    "name": "cy-user114",
+    "phone": "00100000114",
+    "belong": "cypress e2e"
+  },
+  "user117": {
+    "name": "cy-user117",
+    "phone": "00100000117",
+    "belong": "cypress e2e"
+  },
+  "user118": {
+    "name": "cy-user118",
+    "phone": "00100000118",
+    "belong": "cypress e2e"
+  },
+  "user119": {
+    "name": "cy-user119",
+    "phone": "00100000119",
+    "belong": "cypress e2e"
+  },
+  "user121": {
+    "name": "cy-user121",
+    "phone": "00100000121",
+    "belong": "cypress e2e"
+  },
+  "user122": {
+    "name": "",
+    "phone": "00100000122",
+    "belong": ""
+  },
+  "user123": {
+    "name": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTU",
+    "phone": "00100000123",
+    "belong": ""
+  },
+  "user124": {
+    "name": "cy-user124",
+    "phone": "００１０００００１２４",
+    "belong": ""
+  },
+  "user125": {
+    "name": "cy-user125",
+    "phone": "0010000012",
+    "belong": ""
+  },
+  "user126": {
+    "name": "cy-user126",
+    "phone": "",
+    "belong": ""
+  },
+  "user127": {
+    "name": "",
+    "phone": "00100000127",
+    "belong": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTU"
+  },
+  "user130": {
+    "name": "cy-user130",
+    "phone": "00100000130",
+    "belong": ""
+  },
+  "user131": {
+    "name": "cy-user131",
+    "phone": "00100000131",
+    "belong": "",
+    "nameDelta": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTU"
+  },
+  "user133": {
+    "name": "cy-user133",
+    "phone": "00100000133",
+    "belong": "cypress e2e",
+    "belongDelta": "ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTU"
+  }
+}

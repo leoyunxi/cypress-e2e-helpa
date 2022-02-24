@@ -1,0 +1,14 @@
+{
+  "indexLabel": "遭難者位置情報",
+  "indexGroupLabel": "捜索者位置表示",
+  "customerSearcherTitle": "捜索者情報一覧",
+  "customerSearcherNewTitle": "捜索者情報登録",
+  "customerSearcherEditTitle": "捜索者情報変更",
+  "deleteConfirmMsg": "選択された捜索者情報を削除します。よろしいですか？",
+  "groupListTitle": "グループ情報一覧",
+  "groupNewTitle": "グループ新規作成",
+  "groupEditTitle": "グループ編集",
+  "deleteGroupConfirmMsg": "選択されたグループ情報を削除します。よろしいですか？",
+  "inputGroupNameMsg": "グループ名を入力してください。",
+  "selectGroupUserMsg": "移動するユーザー情報を選択してください"
+}

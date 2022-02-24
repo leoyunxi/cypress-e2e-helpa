@@ -1,0 +1,16 @@
+{
+  "baseUrl": "http://localhost:8080/NisekoServer/",
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "env": {
+    "DB": {
+      "host": "localhost",
+      "port": 5432,
+      "user": "postgres",
+      "password": "admin",
+      "database": "nisekodb"
+    }
+  }
+}

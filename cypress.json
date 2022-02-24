@@ -1,0 +1,19 @@
+{
+  "baseUrl": "http://124.45.200.127:55561/NisekoServer/",
+  "defaultCommandTimeout": 6000,
+  "pageLoadTimeout": 10000,
+  "watchForFileChanges": false,
+  "chromeWebSecurity": false,
+  "viewportWidth": 1920,
+  "viewportHeight": 1080,
+  "env": {
+    "DB": {
+      "host": "localhost",
+      "port": 5432,
+      "user": "postgres",
+      "password": "admin",
+      "database": "nisekodb",
+      "max": 10
+    }
+  }
+}
