@@ -8,7 +8,7 @@
 ### 必要なモジュールをインストール(※初回)
 `npm i`
 
-### cypressを実行
+### cypress自動テストの実行
 - CLIでテスト実行
 `npm run cy:runDev`
 
@@ -17,4 +17,4 @@
 
 ### 出力について
 スクリーンショット: e2e/cypress/screenshots
-ビデオ: e2e/cypress/videos
+ビデオ(CLIモードのみ): e2e/cypress/videos
