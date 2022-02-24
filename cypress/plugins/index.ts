@@ -31,15 +31,12 @@ module.exports = (on: Cypress.PluginEvents, config: Cypress.PluginConfigOptions)
             return null
         },
         async query({sql, values}) {
-            const client = await pool.connect()
             try {
-                const res = await client.query(sql, values)
+                const res = await pool.query(sql, values)
                 return res;
             } catch (e) {
                 cy.log('query error', e)
-            } finally {
-                client.release();
-            }
+            } 
 
         }
     });
